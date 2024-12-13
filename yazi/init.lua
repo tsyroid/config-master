@@ -1,13 +1,6 @@
 -- ~/.config/yazi/init.lua
 
--- https://github.com/yazi-rs/plugins/tree/main/full-border.yazi
-require('full-border'):setup()
-
--- https://github.com/dedukun/relative-motions.yazi
-require('relative-motions'):setup { show_numbers = 'relative', show_motion = true }
-
--- https://github.com/yazi-rs/plugins:git
-require('git'):setup()
-
--- https://github.com/Ape/simple-status.yazi
-require('simple-status'):setup()
+require('full-border'):setup {
+  -- available values: ui.border.PLAIN, ui.border.ROUNDED
+  type = ui.Border.ROUNDED,
+}
