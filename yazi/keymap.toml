@@ -1,0 +1,9 @@
+# ~/.config/yazi/keymap.toml
+
+# From: https://yazi-rs.github.io/docs/tips
+# Close input dialog with ONE <ESC> keypress
+[[input.prepend_keymap]]
+on   = "<Esc>"
+run  = "close"
+desc = "Cancel input"
+
