@@ -30,9 +30,3 @@ copy_on_select yes
 
 # advanced
 allow_hyperlinks yes
-
-
-# BEGIN_KITTY_THEME
-# Dark Pastel
-include current-theme.conf
-# END_KITTY_THEME
