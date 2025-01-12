@@ -7,3 +7,8 @@ on   = "<Esc>"
 run  = "close"
 desc = "Cancel input"
 
+# ya pack -a yazi-rs/plugins:jump-to-char
+[[manager.prepend_keymap]]
+on   = "f"
+run  = "plugin jump-to-char"
+desc = "Jump to CHAR"
