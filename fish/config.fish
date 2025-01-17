@@ -73,6 +73,7 @@ alias y yazi
 alias b bat
 alias vi nvim
 alias ff fastfetch
+alias nv 'nvim -u NONE' # bare nvim
 # alias zed zeditor
 
 # Github aliases
