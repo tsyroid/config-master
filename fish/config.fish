@@ -19,6 +19,7 @@ fish_add_path /opt/homebrew/bin # macOS
 fish_add_path /opt/homebrew/sbin # macOS
 fish_add_path /opt/homebrew/opt/gawk/libexec/gnubin # macOS; brew
 fish_add_path /opt/homebrew/opt/gnu-tar/libexec/gnubin # macOS; brew
+fish_add_path /opt/homebrew/opt/coreutils/libexec/gnubin # macOS; brew
 fish_add_path $HOME/.config/emacs/bin/ # Doom Emacs
 
 # if postgres
