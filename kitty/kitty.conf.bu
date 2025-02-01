@@ -1,0 +1,37 @@
+# ~/.config/kitty/kitty.conf
+# git branch conf/ml4w-test
+
+include ./theme-files/solarized-osaka_black.conf
+# include ./nerd-font-symbols.con
+# include ./colors-kitty.conf
+
+# font
+# font_family MonoLisa
+# font_family Terminess Nerd Font Mono
+font_family Iosevka Comfy Motion Fixed
+bold_font auto
+italic_font auto
+bold_italic_font auto
+font_size 16.0
+
+# Opacity
+background_opacity 0.85
+
+# cursor
+cursor_shape beam
+cursor_blink_interval 0
+
+# window layout
+# remember_window_size yes
+# initial_window_size 640
+# initial_window_height 480
+# hide_window_decorations true # false (or commented out) on macOS
+enabled_layouts tall
+window_margin_width 5
+
+# clipboard
+copy_on_select yes
+
+# advanced
+allow_hyperlinks yes
+
