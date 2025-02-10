@@ -9,7 +9,7 @@
 	editor = nvim
 
 [init]
-	defaultBranch = main
+	defaultBranch = master
 
 [commit]
 	verbose = true
