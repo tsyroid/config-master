@@ -1,0 +1,10 @@
+
+
+
+M-/         | Alt/Meta Slash: Tile->Horizontal->Vertical switch
+---------------------------------------------------------------
+M-S-;       | Meta/Shift/; -> to SERVICE mode
+once in     | SERVICE mode, then
+M-S-l       | change layout orientation
+
+
