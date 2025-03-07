@@ -5,7 +5,8 @@ doom/
 emacs/
 go/
 github-copilot/
-nvim/
+neobean/
+nvim*/
 pulse/
 obsidian/
 zed/prompts/
