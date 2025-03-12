@@ -1,22 +1,29 @@
-font-family = Iosevka Comfy Motion
-#font-family = BerkeleyMono Nerd Font
-#font-family = Iosevka Nerd Font
-#font-family = SFMono Nerd Font 
+# ~/.config/ghostty/config
+
+#font-family = Iosevka Comfy Motion
+font-family = MonoLisa Nerd Font
 font-size = 16
-theme = GruvboxDarkHard
+font-style = Light
+
+#theme = GruvboxDarkHard
+theme = catppuccin-mocha
+background = #000000
+
 shell-integration-features = no-cursor,sudo,no-title
 cursor-style = bar
 # adjust-cell-height = 35%
-background-opacity = 0.90
+background-opacity = 0.85
+shell-integration = fish
 
 mouse-hide-while-typing = true
 mouse-scroll-multiplier = 2
 
 window-padding-balance = true 
 window-save-state = always
+window-padding-x = 10
 macos-titlebar-style=transparent
-window-colorspace = "display-p3"
-background = 1C2021
+# window-colorspace = "display-p3"
+# background = 1C2021
 # foreground = d4be98
 
 # keybindings
