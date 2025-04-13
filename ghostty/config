@@ -1,9 +1,9 @@
 # ~/.config/ghostty/config
 
-#font-family = Iosevka Comfy Motion
-font-family = MonoLisa Nerd Font
+font-family = Iosevka Comfy Motion
+#font-family = MonoLisa Nerd Font
 font-size = 16
-font-style = Light
+font-style = SemiLight
 
 #theme = GruvboxDarkHard
 theme = catppuccin-mocha
